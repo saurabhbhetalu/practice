@@ -1,0 +1,105 @@
+2022-04-14 17:29:03,933  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-14 17:29:18,782  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-14 17:29:19,083  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-14 17:29:19,430  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-14 17:29:19,652  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-14 17:29:19,885  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-14 17:29:20,794  INFO [main] SaucedemoProjectv1:15 - TC01
+2022-04-14 17:29:21,321  INFO [main] SaucedemoProjectv1:23 - Click on Burger Button
+2022-04-14 17:29:21,883  INFO [main] SaucedemoProjectv1:25 - Click on Logout Button
+2022-04-14 17:29:24,331  INFO [main] SaucedemoProjectv1:67 - Close the Browser
+2022-04-14 17:29:28,673  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-14 17:29:40,541  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-14 17:29:40,678  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-14 17:29:40,896  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-14 17:29:41,072  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-14 17:29:41,283  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-14 17:29:41,745  INFO [main] SaucedemoProjectv1:17 - TC02
+2022-04-14 17:29:41,875  INFO [main] SaucedemoProjectv1:20 - Click on Burger Button
+2022-04-14 17:29:42,024  INFO [main] SaucedemoProjectv1:22 - click on Logout Button
+2022-04-14 17:29:44,107  INFO [main] SaucedemoProjectv1:67 - Close the Browser
+2022-04-14 17:29:46,590  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-14 17:29:57,918  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-14 17:29:58,051  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-14 17:29:58,265  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-14 17:29:58,447  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-14 17:29:58,673  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-14 17:29:59,773  INFO [main] SaucedemoProjectv1:16 - TC03
+2022-04-14 17:29:59,923  INFO [main] SaucedemoProjectv1:20 - Select the product
+2022-04-14 17:30:00,077  INFO [main] SaucedemoProjectv1:23 - Click on add to cart button
+2022-04-14 17:30:00,566  INFO [main] SaucedemoProjectv1:33 - Click on Burger Button
+2022-04-14 17:30:00,729  INFO [main] SaucedemoProjectv1:35 - Click on Logout Button
+2022-04-14 17:30:02,186  INFO [main] SaucedemoProjectv1:67 - Close the Browser
+2022-04-14 17:30:06,216  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-14 17:30:21,612  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-14 17:30:21,747  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-14 17:30:21,964  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-14 17:30:22,132  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-14 17:30:22,346  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-14 17:30:23,055  INFO [main] SaucedemoProjectv1:13 - TC04
+2022-04-14 17:30:23,160  INFO [main] SaucedemoProjectv1:16 - Select the product
+2022-04-14 17:30:23,908  INFO [main] SaucedemoProjectv1:24 - Click on Burger Button
+2022-04-14 17:30:24,047  INFO [main] SaucedemoProjectv1:26 - Click on Logout Button
+2022-04-14 17:30:25,409  INFO [main] SaucedemoProjectv1:67 - Close the Browser
+2022-04-14 20:47:26,435  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-14 20:47:31,565  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-14 20:47:31,860  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-14 20:47:33,076  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-14 20:47:33,299  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-14 20:47:33,692  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-14 20:49:51,904  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-14 20:49:56,370  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-14 20:49:56,511  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-14 20:49:56,889  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-14 20:49:57,190  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-14 20:49:57,434  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-14 20:49:57,807  INFO [main] SaucedemoProjectv1:15 - TC01
+2022-04-14 20:49:57,980  INFO [main] SaucedemoProjectv1:23 - Click on Burger Button
+2022-04-14 20:49:58,139  INFO [main] SaucedemoProjectv1:25 - Click on Logout Button
+2022-04-14 20:49:58,891  INFO [main] SaucedemoProjectv1:67 - Close the Browser
+2022-04-18 10:23:54,893  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-18 10:24:04,932  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-18 10:24:05,190  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-18 10:24:06,435  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-18 10:24:06,650  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-18 10:24:08,001  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-18 10:24:17,526  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-18 10:24:43,598  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-18 10:24:43,778  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-18 10:24:44,130  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-18 10:24:44,296  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-18 10:24:44,487  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-18 10:25:04,402  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-18 10:25:20,439  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-18 10:25:20,568  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-18 10:25:20,773  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-18 10:25:20,962  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-18 10:25:21,178  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-18 10:46:03,853  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-18 10:46:17,220  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-18 10:46:17,355  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-18 10:46:18,491  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-18 10:46:18,680  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-18 10:46:18,981  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-18 10:47:10,685  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-18 10:47:24,928  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-18 10:47:25,130  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-18 10:47:26,170  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-18 10:47:26,328  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-18 10:47:26,559  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-18 10:48:49,361  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-18 10:49:15,879  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-18 10:49:16,014  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-18 10:49:16,344  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-18 10:49:16,537  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-18 10:49:16,792  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-18 10:50:33,382  INFO [main] SaucedemoProjectv1:33 - Open the Browser
+2022-04-18 10:50:48,154  INFO [main] SaucedemoProjectv1:42 - Enter the Saucedemo Website
+2022-04-18 10:50:48,416  INFO [main] SaucedemoProjectv1:45 - Maximize the Browser
+2022-04-18 10:50:48,707  INFO [main] SaucedemoProjectv1:52 - enter the username
+2022-04-18 10:50:48,897  INFO [main] SaucedemoProjectv1:54 - Enter the Password
+2022-04-18 10:50:49,106  INFO [main] SaucedemoProjectv1:56 - Click on the Log In Button
+2022-04-18 10:50:49,721  INFO [main] SaucedemoProjectv1:15 - TC01
+2022-04-18 10:50:50,449  INFO [main] SaucedemoProjectv1:23 - Click on Burger Button
+2022-04-18 10:50:50,618  INFO [main] SaucedemoProjectv1:25 - Click on Logout Button
+2022-04-18 10:50:55,905  INFO [main] SaucedemoProjectv1:67 - Close the Browser
